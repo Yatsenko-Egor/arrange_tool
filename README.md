@@ -74,7 +74,7 @@ STL-модели передаются после параметров коман
 
 `arrange_tool` распространяется под **GNU Lesser General Public License v3.0 (LGPL-3.0)**.
 
-Полный текст лицензии: [`LICENSE.md`](LICENSE.md).
+Полный текст лицензии: [`LICENSE.md`](LICENSE).
 
 Информация о сторонних библиотеках: [`NOTICE.md`](NOTICE.md).
 
